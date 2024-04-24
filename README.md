@@ -1,3 +1,3 @@
 # python_programming
 
-In this repositort i have covered all the python language basics.
+In this repository i have covered all the python language basics.
